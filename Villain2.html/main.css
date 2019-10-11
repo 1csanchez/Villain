@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Neuton:800&display=swap');
 body{
     background-image:url("https://res.cloudinary.com/teepublic/image/private/s--GJLQ2m5Y--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1555161004/production/designs/4631338_0.jpg");
     background-size:100%;
-    font-family: 'Modak', cursive;
+    font-family: 'Neuton', serif;
 }
 img{
     width:500px;
@@ -16,7 +17,7 @@ img{
 }
 
 .banner {
-    color:cyan;
+    color:yellow;
     width:500px;
     margin:0 auto;
     text-align:center;
@@ -24,10 +25,12 @@ img{
     background-image:url("https://i.pinimg.com/originals/6a/b4/a9/6ab4a96a1d7c8256609db00affeb9290.png");
     border:solid 2px cyan;
     border-radius:10px;
-    font-family: 'Modak', cursive;
+    font-family: 'Neuton', serif;
+    font-size:20px;
 }
 
 #banner {
+    font-size:20px;
     width:500px;
     margin:0 auto;
     text-align:center;
@@ -38,31 +41,31 @@ img{
 }
 
 #banner h1 {
-    font-family: 'Modak', cursive;
+    font-family: 'Neuton', serif;
     color:yellow;
     font-size:32px;
     text-shadow:2px 4px 3px rgba(0,0,0,0.3);
 }
 
 #banner h2 {
-    font-family: 'Modak', cursive;
+    font-family: 'Neuton', serif;
     color:yellow;
     font-size:24px;
     text-shadow:2px 4px 3px rgba(0,0,0,0.3);
 }
 a{
     color:cyan;
-    font-family: 'Modak', cursive;
+    font-family: 'Neuton', serif;
 }
 p{
-    font-family: 'Modak', cursive;
+    font-family: 'Neuton', serif;
 }
 .kiyu{
     font-size:80px;
     text-align:center;
     font-weight:bold;
     text-transform:uppercase;
-    font-family: 'Modak', cursive;
+    font-family: 'Neuton', serif;
 }
 .nav{
     text-align:center;
